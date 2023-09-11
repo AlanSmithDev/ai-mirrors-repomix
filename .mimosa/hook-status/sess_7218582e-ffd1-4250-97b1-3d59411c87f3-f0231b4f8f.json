@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "mimosa-hook-status/v1",
+  "recordedAt": "2026-10-04T15:17:20.518Z",
+  "sessionId": "sess_7218582e-ffd1-4250-97b1-3d59411c87f3",
+  "event": "PostToolUse",
+  "toolName": "Write",
+  "file": "E:\\code\\business\\ai-mirrors\\repomix-push.sh",
+  "outcome": "inconclusive",
+  "coverage": "partial",
+  "findingCount": 0,
+  "durationMs": 18,
+  "hostState": "hook_complete",
+  "reportHint": ".mimosa/reports/"
+}
